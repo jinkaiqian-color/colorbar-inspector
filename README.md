@@ -4,8 +4,8 @@ Find the linear color bar in a press-sheet PDF and get the **patch size** and th
 **patch map** in millimetres. Built for recreating a color bar template in color
 control software, so the system knows how to map measurement data to each patch.
 
-**Live page:** `https://YOUR-USERNAME.github.io/colorbar-inspector/`
-(available after you enable GitHub Pages, see [Publishing](#publishing-on-github-pages))
+**Live page:** `https://jinkaiqian-color.github.io/colorbar-inspector/`
+(see [Publishing](#publishing-on-github-pages))
 
 ![The page analyzing the bundled sample sheet](docs/screenshot.png)
 
